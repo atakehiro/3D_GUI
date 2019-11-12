@@ -3,7 +3,7 @@ GUI tool for 3D view of stack image
 
 <img src="doc/demo.png" width="1000" align="below">
 
-# Dependencies
+## Dependencies
 MATLAB
 
 Image processing toolbox
@@ -14,7 +14,7 @@ Takehiro Ajioka
 
 E-mail:1790651m@stu.kobe-u.ac.jp
 
-# Affiliation
+## Affiliation
 
 Division of System Neuroscience, Kobe University of Graduate School of Medicine
 
