@@ -1,4 +1,4 @@
-# 3D_GUI
+# 3D_GUI_Veiwer
 GUI tool for 3D view of stack image
 
 <img src="doc/demo.gif" width="800" align="below">
